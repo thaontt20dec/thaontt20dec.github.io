@@ -1,0 +1,270 @@
+*{
+padding:0px;
+margin:0px
+}
+.wrapper {
+	width: 1098px;
+	height: 1200px;
+	margin: 0 auto;
+}
+.part1 {
+	width: 1098px;
+	height: 480px;
+	background-image: url("../img/green-aesthetic-wallpaper-for-pc.jpg");
+	margin:0 auto;
+}
+.part1 .header {
+	width: 1300px;
+	height: 100px;
+	margin-bottom:10px;
+}
+.part1 .header .logo{
+	width: 180px;
+	height: 100px;
+	float: left;
+	margin-left: 50px
+}
+.part1 .header .logo img{
+	height: 98px;
+	width: 180px;
+}
+.part1 .header .menu {
+	width: 1000px;
+	height: 100px;
+	margin-top: 28px;
+	float: right;
+}
+.part1 .header .menu ul {
+	list-style: none;
+}
+.part1 .header .menu ul li{
+	float:left;	
+	margin-left: 25px;
+	
+}
+.part1 .header .menu ul li a{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-decoration: none;
+	color: white;
+	transition-duration: 0.2s;
+	font-size: 21px;
+	margin-left: 15px;
+}
+.part1 .header .menu ul li a:hover {
+	color: darkseagreen;
+	border: thick;
+}
+.part1 .banner {
+	width: 420px;
+	height: 170px;
+	color: white;
+	margin-left: 50px;
+	margin-top: 70px;
+}
+.part1 .banner h1{
+	font-size: 45px;
+}
+.part1 .banner p{
+	opacity: 0.7;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.part1 .banner a {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	transition-duration: 0.2s;
+}
+.part1 .banner a:hover {
+	color: darkseagreen;
+}
+.part1 .banner img{
+	width: 25px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.part1 .extra{
+	width: 100px;
+	height: 20px;
+	float: right; 
+}
+.part1 .extra img{
+	width: 250px;
+	height: 250px;
+}
+.part2 {
+	width: 1098px;
+	height: 1080px;
+	background-image: url("../img/test.png");
+	margin: 0 auto;
+}
+.part2 .head1 {
+	width: 1098px;
+	height: 200px;
+	margin: 0 auto;
+}
+.part2 .head1 .left{
+	width: 350px;
+	height: 80px;
+	float: left;
+	margin-top: 25px;
+}
+.part2 h1{
+	color: gray;
+	font-size: 25px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.part2 h2{
+	margin-top: 2px;
+	color: darkgreen;
+	font-size: 45px;
+}
+.part2 .head1 .right{
+	float: right;
+	width: 500px;
+	height: 80px;
+	margin-top: 30px;
+	margin-right: 30px;
+	color: dimgray;
+}
+.part2 .head1 .right p{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+}
+.part2 .head2 { 
+	width: 1098px;
+	height: 1300px;
+	margin: 0 auto;
+}
+.part2 .head2 .left{
+	width: 300px;
+	height: 600px;
+	float: left;
+}
+.part2 .head2 img{
+	width: 250px;
+}
+.part2 p{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 15px;
+	color: dimgray;
+	margin-bottom: 10px
+}
+.part2 a{
+	color:dimgray;
+	text-decoration: none;
+	float: right;
+	margin-right: 50px;
+	font-size: 15px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.part2 a:hover {
+	color:darkseagreen
+}
+.part2 .head2 .center{
+	width: 300px;
+	height: 680px;
+	float: left;
+	margin-left: 45px;
+	margin-top: 150px;
+}
+.part2 .head2 .right{
+	width: 300px;
+	height: 500px;
+	float: right;
+	margin-right: 55px;
+}
+.part3 {
+	width: 1098px;
+	height: 500px;
+	background-color:#255853; 
+	margin: 0 auto;
+}
+.part3 .left {
+	width: 300px;
+	height: 800px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 65px;
+}
+.part3 h1{
+	color: gray;
+	font-size: 25px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.part3 h2{
+	margin-top: 2px;
+	color: white;
+	font-size: 45px;
+}
+.part3 .left img{
+	width: 250px;
+	margin-top: 150px;
+}
+.part3 .right {
+	width: 550px;
+	height: 350px;
+	float: right;
+	margin-top: 30px;
+}
+.part3 .right h1{
+	font-size: 35px;
+	margin-bottom: 15px;
+	color: darkseagreen
+}
+.part3 .right h3{
+	font-size: 20px;
+	margin-bottom:15px;
+	margin-top: 15px;
+	color: white;
+}
+.part3 .right input{
+	width: 300px;
+	height: 25px;
+	opacity: 0.7
+}
+.part3 .right img{
+	width: 140px;
+	margin-top: 20px;
+}
+.footer {
+	width: 1098px;
+	height: 100px;
+}
+.footer .menu{
+	width: 1000px;
+}
+.footer .menu ul {
+	list-style: none;
+}
+.footer .menu ul li{
+	float:left;	
+	margin-left: 10px;
+	margin-top: 30px;
+}
+.footer .menu ul li a{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-decoration: none;
+	color: darkgreen;
+	transition-duration: 0.2s;
+	font-size: 15px;
+	margin-left: 25px;
+	font-weight: bolder;
+}
+.footer  .menu ul li a:hover {
+	color: darkseagreen;
+	border: thick;
+}
+.company {
+	width: 500px;
+	height: 100px;
+	margin-left: 535px;
+}
+.company h3{
+	size: 20px;
+	color: gray;
+}
+.company img{
+	width: 130px;
+	margin-left: 50px;
+}
